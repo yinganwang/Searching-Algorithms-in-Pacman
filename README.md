@@ -1,1 +1,1 @@
-# Searching-Algorith-in-Pacman
+# Searching-Algorithms-in-Pacman
